@@ -1,4 +1,4 @@
-**GitHub Ejercitaciñon Final:**
+**GitHub Ejercitación Final:**
 
 **Pasos:**
 Creación del repositorio devjumpers en GitHub.
